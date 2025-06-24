@@ -504,7 +504,7 @@ button:hover, button:focus {
 
 .inner-page-banner {
   padding: 150px 0px 80px;
-  background: url(../images/inner-banner-bg.png);
+  background: url(../assets/images/inner-banner-bg.png);
   background-size: cover;
   background-position: center;
 }
@@ -734,7 +734,7 @@ button:hover, button:focus {
 .works-page .how-it-work-section {
   padding: 60px 0px 20px;
   position: relative;
-  background-image: url(../images/s-img.png);
+  background-image: url(../assets/images/s-img.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
